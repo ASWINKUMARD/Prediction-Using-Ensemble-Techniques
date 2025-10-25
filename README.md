@@ -28,4 +28,8 @@
 🚀 Boosting focuses on correcting errors and boosts accuracy
 📈 Ensemble methods create a more robust prediction system
 
+  ### 👨‍💻 Author
 
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
